@@ -1,9 +1,10 @@
-﻿using CongestionTaxCalculatorAPI.Services;
+﻿using CongestionTaxCalculatorBusiness.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
 builder.Services.AddTransient<ITaxService, TaxService>();
+builder.Services.AddTransient<ICongestionTaxCalculatorService, CongestionTaxCalculatorService>();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();

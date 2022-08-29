@@ -1,4 +1,4 @@
-﻿namespace CongestionTaxCalculatorAPI.Services
+﻿namespace CongestionTaxCalculatorBusiness.Services
 {
     public interface ITaxService
     {

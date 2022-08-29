@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Collections;
 using System.Globalization;
 using System.Linq;
+using CongestionTaxCalculatorBusiness.Services;
 
 public class TaxRule
 {
@@ -18,7 +19,7 @@ public class TaxRule
     }
 }
 
-public class CongestionTaxCalculator
+public class CongestionTaxCalculatorService : ICongestionTaxCalculatorService
 {
     List<TaxRule> cityTaxRules = new List<TaxRule>();
 

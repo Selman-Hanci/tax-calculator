@@ -12,13 +12,9 @@
 
   <ItemGroup>
     <None Remove="Controllers\" />
-    <None Remove="Services\" />
-    <None Remove="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
-    <Folder Include="Services\" />
-    <Folder Include="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CongestionTaxCalculatorBusiness\CongestionTaxCalculatorBusiness.csproj">
