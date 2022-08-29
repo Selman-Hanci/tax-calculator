@@ -36,7 +36,7 @@ public class TaxCalculatorTest
             89)]
         public void TestCar(string vehicleType, string[] stringDates, string[] taxRules, int expected)
         {
-        CongestionTaxCalculator congestionTaxCalculator = new CongestionTaxCalculator();
+        CongestionTaxCalculatorService congestionTaxCalculator = new CongestionTaxCalculatorService();
 
             int actual = congestionTaxCalculator.GetTax(vehicleType, stringDates, taxRules);
 
@@ -63,7 +63,7 @@ public class TaxCalculatorTest
             13)]
         public void TestCarFalsePositive(string vehicleType, string[] stringDates, string[] taxRules, int expected)
         {
-        CongestionTaxCalculator congestionTaxCalculator = new CongestionTaxCalculator();
+        CongestionTaxCalculatorService congestionTaxCalculator = new CongestionTaxCalculatorService();
 
             int actual = congestionTaxCalculator.GetTax(vehicleType, stringDates, taxRules);
 
@@ -88,7 +88,7 @@ public class TaxCalculatorTest
             0)]
         public void TestDiplomat(string vehicleType, string[] stringDates, string[] taxRules, int expected)
         {
-        CongestionTaxCalculator congestionTaxCalculator = new CongestionTaxCalculator();
+        CongestionTaxCalculatorService congestionTaxCalculator = new CongestionTaxCalculatorService();
 
             int actual = congestionTaxCalculator.GetTax(vehicleType, stringDates, taxRules);
 
@@ -113,7 +113,7 @@ public class TaxCalculatorTest
             0)]
         public void TestMotorcycle(string vehicleType, string[] stringDates, string[] taxRules, int expected)
         {
-        CongestionTaxCalculator congestionTaxCalculator = new CongestionTaxCalculator();
+        CongestionTaxCalculatorService congestionTaxCalculator = new CongestionTaxCalculatorService();
 
             int actual = congestionTaxCalculator.GetTax(vehicleType, stringDates, taxRules);
 
