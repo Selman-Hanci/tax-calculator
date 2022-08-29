@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = congestion.calculator
+build_property.ProjectDir = /Users/selmanhanci/Documents/GitHub/congestion-tax-calculator/netcore/

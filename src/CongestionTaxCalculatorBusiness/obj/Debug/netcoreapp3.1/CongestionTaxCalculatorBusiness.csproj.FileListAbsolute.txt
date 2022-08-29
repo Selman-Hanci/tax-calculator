@@ -1,0 +1,10 @@
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/bin/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.deps.json
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/bin/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.dll
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/bin/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.pdb
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.csproj.AssemblyReference.cache
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.AssemblyInfoInputs.cache
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.AssemblyInfo.cs
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.csproj.CoreCompileInputs.cache
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.dll
+/Users/selmanhanci/Documents/Repos/tax-calculator/src/netcore/CongestionTaxCalculatorBusiness/obj/Debug/netcoreapp3.1/CongestionTaxCalculatorBusiness.pdb

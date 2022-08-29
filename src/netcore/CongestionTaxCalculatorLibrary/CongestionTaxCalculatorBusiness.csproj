@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>CongestionTaxCalculator.CongestionTaxCalculatorLibrary</RootNamespace>
+    <AssemblyName>CongestionTaxCalculatorLibrary</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="CongestionTaxCalculatorBusiness\CongestionTaxCalculatorBusiness.csproj" />
+    <None Include="CongestionTaxCalculatorBusiness\CongestionTaxCalculator.sln" />
+  </ItemGroup>
+</Project>

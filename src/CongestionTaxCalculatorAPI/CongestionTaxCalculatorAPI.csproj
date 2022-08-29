@@ -21,7 +21,7 @@
     <Folder Include="Services\Interfaces\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CongestionTaxCalculatorLibrary\CongestionTaxCalculatorBusiness.csproj">
+    <ProjectReference Include="..\CongestionTaxCalculatorBusiness\CongestionTaxCalculatorBusiness.csproj">
       <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
     </ProjectReference>
   </ItemGroup>
